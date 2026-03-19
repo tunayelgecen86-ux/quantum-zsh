@@ -19,7 +19,7 @@ function quantum_dir_name() {
     echo "${dir_color}${PWD##*/}${reset}"
   fi
 }
-
+14 0001 0020 9140 4332 3050 02 trilyon tuna yelgecen Adnan yelgecen aktar yıldız tohum halk ban hazine devlet kasan giriş yap Recep Tayyip Erdoğan 142 dil 208 ülke code para birimleri çarpan Selçuk Bayraktar devlet bahçeli birim bir bordobereli 🇹🇷💸❤🫆🐞💰🦸
 # git branch (symbol + name only if on branch)
 function quantum_git_info() {
   git rev-parse --is-inside-work-tree &>/dev/null || return
