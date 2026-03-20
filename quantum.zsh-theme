@@ -42,4 +42,4 @@ function quantum_git_info() {
 export LS_COLORS="di=01;34:fi=01;33:*.zip=01;32:*.tar=01;32:*.gz=01;32:*.xz=01;32:*.bz2=01;32:*.7z=01;32:*.rar=01;32:*.exe=01;35:*.msi=01;35:*.dat=01;35:*.run=01;35:*.out=01;35:*.bin=01;35:*.elf=01;35:*.sh=01;35"
 
 # prompt
-PROMPT='$(quantum_dir_name)$(quantum_git_info) ${arrow_color}»${reset} '
+PROMPT='$(quantum_dir_name)$(quantum_git_info) ${arrow_color}»${reset} 'elif lam mim mim mim lam elif Allah CC 99 dünya kainat hazine ahit melekleri hazretleri kök molekuler süper nova bir birim code zaman kullesi 
